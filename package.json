@@ -1,0 +1,11 @@
+{
+  "name": "iphone14website",
+  "version": "1.0.0",
+  "description": "[Мой первый сайт с адаптивом](https://zercooi.github.io/IPhone14Website/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
