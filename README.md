@@ -1,3 +1,11 @@
-# IPhone14Website
- 
-[Мой первый сайт с адаптивом](https://zercooi.github.io/IPhone14Website/)
+# IPhone14Website - первый сверстанный сайт
+
+Сводка новых навыков при верстке сайта:
+
+- Начальное понимание HTML и CSS
+- навчальное понимание Js
+- понимание правильно структуры построения сайтов
+- освоил основные теги
+- узнал о селекторах
+
+![Screenshot](https://github.com/ZeRcooI/IPhone14Website/blob/main/figma/Screenshot%202024-02-13%20172510.jpg)
